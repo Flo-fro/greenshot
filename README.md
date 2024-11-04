@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fgreenshot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fgreenshot?ref=badge_shield)
+
 Greenshot - a free screenshot tool optimized for productivity
 =============================================================
 
@@ -28,3 +30,7 @@ Releases
 
 You can find a list of all releases (stable and unstable) in the [Github releases](https://github.com/greenshot/greenshot/releases) or in the [version history on our website](https://getgreenshot.org/version-history/).
 The [downloads page on our website](https://getgreenshot.org/downloads/) always links to the latest stable release.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FFlo-fro%2Fgreenshot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FFlo-fro%2Fgreenshot?ref=badge_large)
